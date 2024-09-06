@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676303106632",
+    "project_id": "mindlink-assignment-ab3ed",
+    "storage_bucket": "mindlink-assignment-ab3ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676303106632:android:e09332214b694c4a565e7d",
+        "android_client_info": {
+          "package_name": "com.example.mindlink_assignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBp5_jHyWJF-5ef-4qyGv0hUU2allW7vaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
